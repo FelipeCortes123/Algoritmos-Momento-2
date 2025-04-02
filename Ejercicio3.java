@@ -14,6 +14,7 @@ public class Ejercicio3 {
             }
         }
         System.out.println(matrizNotas[0][0]);
+        
         scanner.close();
     }
 }

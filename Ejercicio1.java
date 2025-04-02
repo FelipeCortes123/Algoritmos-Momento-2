@@ -16,6 +16,7 @@ public class Ejercicio1 {
             sumaTotal = listaEnteros[i] + sumaTotal;
         }
         System.out.print("SUMA TOTAL ->" + sumaTotal);
+        
         scanner.close();
     }
 }
